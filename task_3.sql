@@ -1,2 +1,3 @@
 -- Lists all tables in alx_book_store without explicit USE statement
-SHOW TABLES;
+-- task_3.sql
+SHOW TABLES FROM alx_book_store;
